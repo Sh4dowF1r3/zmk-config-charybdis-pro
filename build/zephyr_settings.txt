@@ -1,0 +1,17 @@
+# WARNING. THIS FILE IS AUTO-GENERATED. DO NOT MODIFY!
+#
+# This file contains build system settings derived from your modules.
+#
+# Modules may be set via ZEPHYR_MODULES, ZEPHYR_EXTRA_MODULES,
+# and/or the west manifest file.
+#
+# See the Modules guide for more information.
+"DTS_ROOT":"D:/Keyboard firmware/zmk-config-charybdis-pro/zmk-pmw3610-driver"
+"DTS_ROOT":"D:/Keyboard firmware/zmk-config-charybdis-pro/modules/hal/atmel"
+"DTS_ROOT":"D:/Keyboard firmware/zmk-config-charybdis-pro/modules/hal/espressif"
+"DTS_ROOT":"D:/Keyboard firmware/zmk-config-charybdis-pro/modules/hal/gigadevice"
+"DTS_ROOT":"D:/Keyboard firmware/zmk-config-charybdis-pro/modules/hal/nuvoton"
+"DTS_ROOT":"D:/Keyboard firmware/zmk-config-charybdis-pro/modules/hal/stm32"
+"DTS_ROOT":"D:/Keyboard firmware/zmk-config-charybdis-pro/zmk/app/module"
+"MODULE_EXT_ROOT":"D:/Keyboard firmware/zmk-config-charybdis-pro/zmk/app/keymap-module"
+"BOARD_ROOT":"D:/Keyboard firmware/zmk-config-charybdis-pro/modules/prospector_adapter"
