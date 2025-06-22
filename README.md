@@ -1,2 +1,1 @@
-charybdis 3x6 with dongle (prospector)
-
+# Charybdis Mini ZMK Configuration
