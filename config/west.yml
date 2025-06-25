@@ -13,7 +13,7 @@ manifest:
       remote: badjeff
       revision: main
     - name: prospector-zmk-module
-      remote: minhe7735 
-      revision: reduce-size
+      remote: badjeff 
+      revision: main 
   self:
     path: config
